@@ -103,8 +103,7 @@ Frameworks like **LangChain / LangGraph** are treated as **tools**, not dependen
 | Professional | ||
 |:--:|:--:|:--:|
 | [LinkedIn](https://www.linkedin.com/in/vimal-thakur-053a43354/)  |
-| [Email](mailto:vimalthakur937@gmail.com) |  |  |
-| [X](https://x.com/pandey_shaktesh) |  |  |
+| [Email](mailto:vimalthakur937@gmail.com) |  |  |  |  |
 
 </div>
 

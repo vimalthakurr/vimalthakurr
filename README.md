@@ -8,7 +8,7 @@
 
 ##  Engineering Focus
 
-I work on **end-to-end GenAI systems** with a strong emphasis on:
+I work on **end-to-end Agentic AI & GenAI systems** with a strong emphasis on:
 
 - **Accuracy, latency, and cost trade-offs**
 - **Simple, debuggable pipelines**
